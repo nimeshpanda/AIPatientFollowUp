@@ -1,0 +1,702 @@
+[
+  {
+    "patient_id": "PT-001",
+    "patient_name": "Ava Thompson",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after appendectomy. Take amoxicillin 500mg twice daily for 7 days. Keep wound dry and return if fever or excessive pain develops.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-002",
+    "patient_name": "Liam Chen",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Start metformin 500mg once daily with breakfast. Follow up with lab work in 2 weeks. Report dizziness or nausea.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-003",
+    "patient_name": "Sophia Patel",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Post-op checkup scheduled for June 30. Continue ibuprofen 200mg every 6 hours as needed. Avoid lifting heavy objects.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-004",
+    "patient_name": "Noah Garcia",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Second influenza vaccine due next Monday. No other medications. Contact clinic if flu-like symptoms occur.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-005",
+    "patient_name": "Mia Lopez",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Blood pressure medication adjusted to lisinopril 10mg daily. Repeat labs in 4 weeks. Seek care for chest pain.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-006",
+    "patient_name": "Ethan Brooks",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after knee arthroscopy. Use acetaminophen 650mg every 6 hours. Keep dressing clean and monitor for swelling.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-007",
+    "patient_name": "Isabella Reed",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue levothyroxine 75mcg every morning on empty stomach. Avoid iron supplements within 4 hours. See doctor if palpitations start.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-008",
+    "patient_name": "James Foster",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Cardiology visit scheduled for July 5. Continue aspirin 81mg daily. Report any unusual bruising.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-009",
+    "patient_name": "Charlotte Hughes",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Tetanus booster due this month. No contraindications noted. Reminder to bring vaccine card to appointment.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-010",
+    "patient_name": "Benjamin Cox",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Cholesterol medication updated to atorvastatin 20mg nightly. Fasting lipid panel due in 6 weeks. Call clinic with muscle pain.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-011",
+    "patient_name": "Amelia Price",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after tonsillectomy. Take hydrocodone 5mg every 6 hours as prescribed. Watch for dehydration and fever.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-012",
+    "patient_name": "Lucas Murphy",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Start albuterol inhaler twice daily as needed. Keep rescue inhaler available. Seek urgent care for severe shortness of breath.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-013",
+    "patient_name": "Harper Bell",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Dermatology follow-up next Thursday. Continue tretinoin 0.05% nightly. Avoid sun exposure.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-014",
+    "patient_name": "Henry Wood",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "COVID booster recommended this quarter. No current symptoms. Encourage vaccination if not yet received.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-015",
+    "patient_name": "Evelyn Russell",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Diabetes medication increased to gliclazide 30mg daily. HbA1c check in 3 months. Monitor for hypoglycemia.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-016",
+    "patient_name": "Alexander Perry",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after hernia repair. Take cephalexin 500mg four times daily. Contact clinic for worsening redness or drainage.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-017",
+    "patient_name": "Abigail Howard",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue sertraline 50mg daily in the morning. Report increased anxiety or panic symptoms.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-018",
+    "patient_name": "Daniel Rivera",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Orthopedic visit scheduled for July 12. Use ibuprofen 400mg every 8 hours. Limit weight-bearing activity.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-019",
+    "patient_name": "Ella Bennett",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Shingles vaccine recommended. No known allergies. Schedule appointment before month-end.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-020",
+    "patient_name": "Sebastian Flores",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Warfarin dose adjusted to 4mg nightly. INR check in 1 week. Seek help for bleeding or severe bruising.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-021",
+    "patient_name": "Grace Hughes",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after sinus surgery. Use saline rinses twice daily. Call if severe headache or fever appears.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-022",
+    "patient_name": "Jack Ward",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue omeprazole 20mg before breakfast. Avoid NSAIDs unless approved. Report black stools.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-023",
+    "patient_name": "Layla Coleman",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Gynecology visit scheduled for July 18. Continue calcium 1200mg daily. Contact office for abnormal bleeding.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-024",
+    "patient_name": "Matthew Kim",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Pneumococcal vaccine due this season. Remind patient to avoid exercise after injection if sore.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-025",
+    "patient_name": "Nora Diaz",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Aspirin therapy continued. LDL retest in 2 months. Watch for stomach upset and ringing in ears.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-026",
+    "patient_name": "Owen Stewart",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after cataract surgery. Use prescribed eye drops every 4 hours. Contact clinic for sudden vision loss.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-027",
+    "patient_name": "Hazel Morris",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Start losartan 50mg daily. Check blood pressure twice weekly. Seek care for swelling of lips or tongue.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-028",
+    "patient_name": "Levi Barnes",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Sleep study follow-up scheduled for August 1. Continue melatonin 3mg nightly. Avoid caffeine after noon.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-029",
+    "patient_name": "Zoey Sanders",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Hepatitis B booster due next week. Confirm patient has no vaccine history on file.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-030",
+    "patient_name": "Julian Ross",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Metformin dose maintained at 1000mg twice daily. Repeat A1c in 3 months. Contact office for vomiting or diarrhea.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-031",
+    "patient_name": "Scarlett Foster",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after endoscopy. Take proton pump inhibitor before breakfast. Report any severe abdominal pain.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-032",
+    "patient_name": "Nathan Bailey",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue simvastatin 40mg at bedtime. Avoid grapefruit juice. Report unexplained muscle weakness.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-033",
+    "patient_name": "Lily Turner",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Dental cleaning visit scheduled for July 24. Continue fluoride rinse nightly. Bring prior X-rays if available.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-034",
+    "patient_name": "Samuel Cooper",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Meningococcal vaccine recommended. No special precautions. Schedule around work hours.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-035",
+    "patient_name": "Aurora Long",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Insulin regimen adjusted to 12 units before dinner. Glucose logs due weekly. Seek help for confusion or sweating.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-036",
+    "patient_name": "David Ortiz",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after gallbladder surgery. Take oxycodone 5mg every 6 hours as needed. Call if jaundice develops.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-037",
+    "patient_name": "Penelope Adams",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue clopidogrel 75mg daily. Avoid skipping doses. Report easy bruising or bleeding gums.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-038",
+    "patient_name": "Joseph Bennett",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Neurology visit scheduled for August 3. Continue gabapentin 300mg at bedtime. Monitor for dizziness.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-039",
+    "patient_name": "Chloe Ramirez",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "RSV vaccine recommended for high-risk patient. Arrange appointment before flu season.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-040",
+    "patient_name": "Wyatt Green",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Levothyroxine increased to 100mcg daily. Recheck TSH in 6 weeks. Call clinic for palpitations.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-041",
+    "patient_name": "Hannah Bell",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after wrist surgery. Use ice packs and elevate hand. Take naproxen 500mg twice daily as needed.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-042",
+    "patient_name": "Samuel Price",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue amlodipine 5mg daily. Keep follow-up BP log. Report swelling in ankles.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-043",
+    "patient_name": "Mila Torres",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Ophthalmology appointment scheduled for July 31. Continue timolol drops twice daily. Avoid rubbing eyes.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-044",
+    "patient_name": "Carter Evans",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Annual flu shot due. Report any known allergies before visit.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-045",
+    "patient_name": "Sofia Hughes",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue lisinopril 20mg daily. Repeat potassium in 4 weeks. Call for weakness or cramps.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-046",
+    "patient_name": "Logan Murphy",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after appendectomy. Take cephalexin 500mg four times daily. Return if fever or increased redness occurs.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-047",
+    "patient_name": "Violet James",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Start prednisone 10mg daily for 5 days. Monitor blood sugar and mood changes. Seek help for severe dizziness.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-048",
+    "patient_name": "Isaac Long",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Pediatric checkup scheduled for August 10. Continue vitamin D 1000 units daily. Keep immunization record handy.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-049",
+    "patient_name": "Ariana Rivera",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Tdap booster due. Ensure vaccination record is updated after visit.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-050",
+    "patient_name": "Mateo Brooks",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue atorvastatin 10mg nightly. Fasting lipids due in 2 months. Watch for unusual muscle pain.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-051",
+    "patient_name": "Paisley Scott",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after ankle surgery. Take tramadol 50mg every 6 hours as needed. Keep weight off foot.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-052",
+    "patient_name": "Gabriel Hayes",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue allopurinol 100mg daily. Stay hydrated. Report rash or joint pain.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-053",
+    "patient_name": "Riley Martinez",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Primary care follow-up scheduled for August 13. Continue vitamin B12 injections monthly. Keep appointment card visible.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-054",
+    "patient_name": "Connor Ward",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "HPV vaccine due for young adult. Confirm consent form before visit.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-055",
+    "patient_name": "Nina Lewis",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue metformin 850mg twice daily. Repeat renal panel in 4 weeks. Contact office for vomiting or weakness.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-056",
+    "patient_name": "Dylan Reed",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after mole removal. Keep site clean and dry. Take acetaminophen 500mg every 6 hours as needed.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-057",
+    "patient_name": "Stella Cooper",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue doxycycline 100mg twice daily. Avoid dairy with medication. Report rash or light sensitivity.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-058",
+    "patient_name": "Adrian Kelly",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Cardiology follow-up scheduled for August 16. Continue carvedilol 12.5mg twice daily. Report fatigue.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-059",
+    "patient_name": "Paisley Diaz",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Pneumococcal booster recommended. Consider scheduling during next clinic visit.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-060",
+    "patient_name": "Hudson Foster",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue lisinopril 10mg daily. Repeat BP at home and bring log. Contact office for swelling.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-061",
+    "patient_name": "Elena Rivera",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after ear surgery. Use antibiotic drops as directed. Avoid water in ear canal.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-062",
+    "patient_name": "Caleb Morris",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue propranolol 20mg twice daily. Report slowed heart rate or dizziness.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-063",
+    "patient_name": "Bella Howard",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Dermatology follow-up scheduled for August 20. Continue moisturizer therapy twice daily. Avoid harsh exfoliants.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-064",
+    "patient_name": "Mason Thompson",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "MMR vaccine recommended for adults without documented immunity. Schedule if needed.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-065",
+    "patient_name": "Luna Simmons",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue warfarin 3mg nightly. INR check in 1 week. Report bleeding or severe bruising.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-066",
+    "patient_name": "Rowan Turner",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after sinus surgery. Take amoxicillin 500mg three times daily. Call if throat swelling develops.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-067",
+    "patient_name": "Naomi King",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue fluoxetine 20mg every morning. Avoid alcohol. Report worsening depression symptoms.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-068",
+    "patient_name": "Eli Cooper",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Orthopedic follow-up scheduled for August 23. Continue physical therapy exercises. Report increased pain.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-069",
+    "patient_name": "Ivy Parker",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Varicella vaccine recommended if not previously immune. Discuss with clinician.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-070",
+    "patient_name": "Leo Campbell",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue metformin 1000mg twice daily. Monitor blood sugar. Contact office for persistent vomiting.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-071",
+    "patient_name": "Ruby Price",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after minor skin procedure. Use antibiotic cream twice daily. Watch for infection signs.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-072",
+    "patient_name": "Asher Sanders",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue sildenafil 50mg as needed. Avoid nitrates. Seek help for prolonged erection.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-073",
+    "patient_name": "Maya Bennett",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Gynecology follow-up scheduled for August 27. Continue iron supplement daily. Report heavy bleeding.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-074",
+    "patient_name": "Theo Foster",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "COVID booster recommended for eligible adult. Encourage completion before holiday travel.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-075",
+    "patient_name": "Ava Hayes",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue digoxin 0.125mg daily. Recheck levels in 2 weeks. Report vision changes.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-076",
+    "patient_name": "Lincoln Brooks",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after hernia repair. Take oxycodone 5mg every 6 hours as needed. Call if fever rises.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-077",
+    "patient_name": "Eliza Perry",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue montelukast 10mg nightly. Keep rescue inhaler available. Report wheezing.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-078",
+    "patient_name": "Nathaniel Adams",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "ENT appointment scheduled for August 31. Continue antihistamine daily. Avoid allergens when possible.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-079",
+    "patient_name": "Lila Garcia",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Hepatitis A vaccine recommended if travel planned. Discuss timing with clinic.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-080",
+    "patient_name": "Henry Diaz",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue hydrochlorothiazide 25mg daily. Repeat potassium check in 4 weeks. Report cramps.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-081",
+    "patient_name": "Mia Cooper",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after wisdom tooth extraction. Use saline rinse after meals. Call if swelling worsens.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-082",
+    "patient_name": "Cameron Price",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue duloxetine 30mg daily. Avoid alcohol. Report suicidal thoughts immediately.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-083",
+    "patient_name": "Aria Bennett",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Cardiology visit scheduled for September 2. Continue beta-blocker as prescribed. Report fainting.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-084",
+    "patient_name": "Julian Baker",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Influenza vaccine recommended. Bring insurance card and ID.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-085",
+    "patient_name": "Grace Martin",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue levothyroxine 50mcg daily. Recheck labs in 6 weeks. Report rapid heartbeat.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-086",
+    "patient_name": "Owen Ross",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after vasectomy. Apply ice packs and rest. Take ibuprofen 400mg as needed.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-087",
+    "patient_name": "Lily Sanders",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue azithromycin 250mg daily. Finish full course. Report diarrhea or rash.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-088",
+    "patient_name": "Ethan White",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Family medicine visit scheduled for September 5. Continue vitamin C daily. Bring previous lab results.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-089",
+    "patient_name": "Sophie Foster",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Shingles vaccine due this month. Verify eligibility before scheduling.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-090",
+    "patient_name": "Jacob Morgan",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue insulin glargine 20 units nightly. Recheck glucose log. Contact office for low sugar symptoms.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-091",
+    "patient_name": "Zara Ellis",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after tonsillectomy. Take acetaminophen 650mg every 6 hours. Hydrate well.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-092",
+    "patient_name": "Elias Reed",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue metoprolol 25mg twice daily. Avoid sudden standing. Report fatigue or dizziness.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-093",
+    "patient_name": "Nora Hughes",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "OB-GYN follow-up scheduled for September 8. Continue prenatal vitamins. Report cramping.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-094",
+    "patient_name": "Milo Parker",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "COVID booster recommended. Encourage staying up to date with vaccines.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-095",
+    "patient_name": "Alyssa Ortiz",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue amlodipine 10mg daily. Repeat BP in 2 weeks. Report severe headache.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-096",
+    "patient_name": "Leo Bennett",
+    "clinical_scenario_type": "Discharge Follow-Up",
+    "dosage_instructions": "Discharged after ear tube surgery. Use prescribed ear drops twice daily. Avoid swimming for 1 week.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-097",
+    "patient_name": "Emma Cole",
+    "clinical_scenario_type": "Medication Reminder",
+    "dosage_instructions": "Continue sertraline 25mg nightly. Report any mood changes. Follow-up with clinician if symptoms worsen.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-098",
+    "patient_name": "Noah Clarke",
+    "clinical_scenario_type": "Appointment Follow-Up",
+    "dosage_instructions": "Physical therapy visit scheduled for September 12. Continue stretching exercises. Monitor pain levels.",
+    "preferred_channel": "SMS"
+  },
+  {
+    "patient_id": "PT-099",
+    "patient_name": "Amelia Turner",
+    "clinical_scenario_type": "Vaccine Reminder",
+    "dosage_instructions": "Annual flu vaccine due. Encourage appointment before month-end.",
+    "preferred_channel": "Email"
+  },
+  {
+    "patient_id": "PT-100",
+    "patient_name": "Isaac Brooks",
+    "clinical_scenario_type": "Lab Result Follow-Up",
+    "dosage_instructions": "Continue simvastatin 20mg nightly. Repeat cholesterol profile in 6 weeks. Call for unusual weakness.",
+    "preferred_channel": "SMS"
+  }
+]
