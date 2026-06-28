@@ -86,7 +86,7 @@ if selected_record is not None:
 
     with col1:
         st.subheader("📋 Selected Record Information")
-        st.json(selected_record)
+        st.table(selected_record)
 
         if st.button("Re-run Agent Sequence"):
             initial_state = build_initial_state(selected_record)
